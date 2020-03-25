@@ -1,5 +1,5 @@
 # Plans and Applications in API Platform Cloud Service
-![Plans and Applications in APIPCS](plans-applications-apipcs.png.png)
+![Plans and Applications in APIPCS](plans-applications-apipcs.png)
 
 # How to create Plans
 
