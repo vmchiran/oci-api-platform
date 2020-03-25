@@ -4,10 +4,9 @@
 # How to create Plans
 
 1. Define the Plan
-
   Examples:
-  - Rate Limiting Plans: Bronze, Silver, Gold
-  - Gateway Access Plans: Dev, Test, Prod
+    - Rate Limiting Plans: Bronze, Silver, Gold
+    - Gateway Access Plans: Dev, Test, Prod
 
 1. Add API entitlements to the Plan
 
